@@ -4,6 +4,7 @@ import GlobalStyle from "./styles/GlobalStyle";
 import Home from "./pages/Home";
 import Write from "./pages/Write";
 
+
 function App() {
   return (
     <BrowserRouter>

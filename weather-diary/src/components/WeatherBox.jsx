@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function WeatherBox({ weather }) {
   return (
     <div>
